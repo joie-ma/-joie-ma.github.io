@@ -1,4 +1,5 @@
-<template>
+﻿<template>
+<div>测试</div>
 <!-- 菜单导航 -->
 <el-row type="flex" justify="space-between" class="banxin">
     <el-col :span="5" class="menu" >
