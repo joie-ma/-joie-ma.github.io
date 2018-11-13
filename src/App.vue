@@ -1,12 +1,15 @@
 <template>
+
     <div id="app">
         <router-view></router-view>
     </div>
 </template>
 
 <script>
+//我要更新了
 import homepage from './components/PageHome.vue';
 export default {
+
     name: 'App',
     components: {homepage}
 };
